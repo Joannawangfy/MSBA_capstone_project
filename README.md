@@ -1,11 +1,13 @@
-# MSBA_capstone_project
-Grips Intelligence Lululemon data
+## MSBA Capstone Project – Lululemon Retail Analysis
 
-ssh -L 8888:127.0.0.1:8888 capstone11@95.217.251.121
+This repository contains code, data summaries, and visualization dashboards for the **UCLA MSBA Capstone Team 11 Project**, focusing on retail analytics for Lululemon using Grips Intelligence data.
 
-Password: wLIKKrZMln4dV4KcgeEszxPjJ1sz7yIzghzBQCSdkunSAWNc0BW1ehIH1VR4E2kk
+### Contents
+- **notebooks/**: Jupyter notebooks for data cleaning, transformation, and analysis.
+- **data/**: Cleaned and aggregated datasets (e.g., `store_summary.csv`).
+- **tableau/**: Packaged Tableau dashboards for regional and product performance.
+- **README.md**: Overview and project documentation.
 
-Jupyter Notebook: https://url.usb.m.mimecastprotect.com/s/qZWzCQAxJnig51OVCksyuGtXNi?domain=localhost
-
-Project Plan: 
-https://docs.google.com/document/d/1UFKB8qhSY78XPoMU-ZaZ2-_vl4zMWsBi1VFbDHlqEYM/edit?usp=sharing
+### Related Resources
+- [📓 Jupyter Notebook (local environment)](https://url.usb.m.mimecastprotect.com/s/qZWzCQAxlJniq51OVCksyuGtXNI?domain=localhost)
+- [📄 Project Plan (Google Docs)](https://docs.google.com/document/d/1UFKB8qhSY78XPoMU-ZaZ2-_vI4zMWsBi1VFbDHlqEYM/edit?usp=sharing)
